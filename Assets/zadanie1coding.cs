@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class obj_script : MonoBehaviour
+public class zadanie1coding : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
